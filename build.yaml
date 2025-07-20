@@ -18,7 +18,7 @@
 include:
   - board: sparkfun_pro_micro_rp2040
     # shield: corne_left nice_view_adapter nice_view
-    shield: corne_left
+    shield: lily58_left
     snippet: studio-rpc-usb-uart
   - board: sparkfun_pro_micro_rp2040
-    shield: corne_right
+    shield: lily58_right
